@@ -23,6 +23,9 @@
 
 
 访问：http://localhost/login.html
+* 管理员：admin admin
+* 老板：boss admin
+* 员工：staff admin
 
 #### 使用说明
 
