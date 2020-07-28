@@ -13,8 +13,8 @@
 
 #### 安装教程
 启动后端
-* 运行单元测试生成jwt的密钥文件：com.hfut.laboratory.jwt.GenerorRsa（生成路径在配置文件中 已配置成 C:\\tmp\\accout\\rsa\\）
 * 运行数据库脚本，修改application.properties中的 spring.datasource.username 和 spring.datasource.password
+* 运行单元测试生成jwt的密钥文件：com.hfut.laboratory.jwt.GenerorRsa（生成路径在配置文件中 已配置成 C:\\tmp\\accout\\rsa\\）
 * 运行application.java 启动后端服务
 
 启动前端
